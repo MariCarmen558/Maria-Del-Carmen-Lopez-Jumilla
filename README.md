@@ -5,11 +5,6 @@
 
 Estoy formándome en el desarrollo de aplicaciones y ampliando mis conocimientos en programación, bases de datos y desarrollo web.
 
-## 🎓 Formación académica
-
-- **2025 – Actualmente:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM), Colegio Miralmonte, Santa Ana.
-- **2023 – 2025:** Bachillerato Tecnológico, IES Sierra Minera, La Unión.
-
 ## 💻 Competencias técnicas
 
 - **Lenguajes de programación:** Java, JavaScript y Python.
