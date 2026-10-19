@@ -1,4 +1,4 @@
-# Maria-Del-Carmen-Lopez-Jumilla
+
 # ¡Hola! Soy María del Carmen López Jumilla 👋
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
