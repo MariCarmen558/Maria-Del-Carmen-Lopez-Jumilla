@@ -71,20 +71,6 @@ me = Developer()
 
 </div>
 
-## 📊 `github_analytics`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=8B5CF6&text_color=E6EDF3&rank_icon=github" width="95%" alt="Panel de estadísticas"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github&layout=compact&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=E6EDF3" width="75%" alt="Panel de lenguajes"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=github&theme=tokyonight&hide_border=true&background=0B1020&ring=8B5CF6&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=E6EDF3&dates=9CA3AF" width="95%" alt="Racha de contribuciones"/>
-</div>
-
 ## 🌠 `beyond_the_code`
 
 - 🚀 Siempre buscando nuevos retos.
