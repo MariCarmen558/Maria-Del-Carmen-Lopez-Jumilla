@@ -29,7 +29,7 @@ Estoy formándome en el desarrollo de aplicaciones y ampliando mis conocimientos
 
 ## 📫 Contacto
 
-- **Correo electrónico:** maria.lopezj@colegiomiralmonte.es
+- **Correo electrónico:** maricarmenlopezjumilla184@gmail.com
 
 ---
 
